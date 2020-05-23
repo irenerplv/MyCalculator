@@ -3,3 +3,8 @@
 
 Исходный код:
 MyCalculator/SourceCode
+
+Порядок запуска:
+1. Запустить Server\release\myServer.exe
+2. Запустить Client\release\mycalculator_client.exe
+
